@@ -4,6 +4,6 @@ your code to take care of other business while the background work is performed.
 are an important tool in removing bottlenecks from code and allow applications to take advantage of
 multiple processors and processor cores to perform work in parallel.</span>
 
-<span class="pt-5 mt-5">In ASP.NET Core, asynchronous methods can be used to improve the overall performance of an
+<div class="pt-5 mt-5"><span>In ASP.NET Core, asynchronous methods can be used to improve the overall performance of an
 application by allowing the server more flexibility in the way that requests are scheduled and executed. Two
-C# keywords—async and await—are used to perform work asynchronously.</span>
+C# keywords—async and await—are used to perform work asynchronously.</span></div>
